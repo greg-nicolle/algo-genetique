@@ -1,9 +1,0 @@
-{
-    "name" : "Echange de fichier",
-    "main": "src/TP.html",
-    "window": {
-	"fullscreen": false,
-        "toolbar": true,
-        "frame": true 
-    }
-}
